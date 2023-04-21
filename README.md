@@ -2,4 +2,4 @@
 
 Join in building decentralized applications that gives users ownership of their digital identity, data, and finances.
 
-Visit our website: 
+Visit our website: https://cosmicapplications.com
